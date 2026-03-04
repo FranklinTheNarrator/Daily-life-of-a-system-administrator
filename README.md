@@ -4,7 +4,6 @@
 <h2 align="center"> Anykey part </h2>
 
 # Day One
-> * Game updated
 > * Downloaded a few programs to computers
 > * Restored and changed 6 passwords of 6 local accounts
 > * Took a picture of router (it was a switch)
