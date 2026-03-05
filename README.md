@@ -10,3 +10,7 @@
 > * Scrolled through about 10 kilometers of my Twitter feed during the break
 > * Checked 5 computers for functionality
 > * Scrolled through 4 more kilometers of my Twitter feed
+
+# Day Two
+> * No open tickets, we're good
+> * 
