@@ -14,4 +14,4 @@
 # Day Two
 > * No open tickets, we're good
 > * Still no tickets, writing my own android app
-> * One ticket appeared, but it is outside my jurisdiction.
+> * One ticket appeared, but it is outside my "jurisdiction".
