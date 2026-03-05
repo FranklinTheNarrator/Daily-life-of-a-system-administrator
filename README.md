@@ -13,4 +13,4 @@
 
 # Day Two
 > * No open tickets, we're good
-> * 
+> * Still no tickets, writing my own android app
