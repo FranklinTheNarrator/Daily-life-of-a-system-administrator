@@ -20,3 +20,5 @@
 > * No tickets, no updates x2
 > * No tickets, no updates x3
 > * No tickets, gotta go to the lecture (I am a student)
+
+# Day Three
