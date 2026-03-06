@@ -23,5 +23,5 @@
 
 # Day Three (friday)
 > * No tickets, guess that's the end of the week
-> * Just got an order from "tops", they want our team to prepare a few classrooms for online test
+> * Just got a direct order from "tops", they want our team to prepare a few classrooms for online test
 > * Installed some program on 84 computers for online test, still no tickets
