@@ -27,3 +27,4 @@
 > * Installed some program on 84 computers for online test, still no tickets
 > * BREAK TIME!!!
 > * We're chilling
+> * No tickets, keep writing my android app
