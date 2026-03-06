@@ -28,3 +28,4 @@
 > * BREAK TIME!!!
 > * We're chilling
 > * No tickets, keep writing my android app
+> * Yeah, the end of the week
