@@ -36,3 +36,4 @@
 # Day Seven (tuesday)
 > * No open tickets, feeling free and comfy ("Let's Groove by Earth, Wind & Fire" vibe)
 > * Still clear, almost finished the app
+> * One ticket appeared, had to reinstall Windows, activate it and reconnect to company domain (easy peasy lemon squeezy)
