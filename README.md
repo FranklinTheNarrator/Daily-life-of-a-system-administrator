@@ -29,3 +29,8 @@
 > * We're chilling
 > * No tickets, keep writing my android app
 > * Yeah, "the end of the week"
+
+# Day Four-Five-Six (saturday, sunday, monday)
+> * day off
+
+# Day Seven (tuesday)
