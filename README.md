@@ -35,3 +35,4 @@
 
 # Day Seven (tuesday)
 > * No open tickets, feeling free and comfy ("Let's Groove by Earth, Wind & Fire" vibe)
+> * Still clear, almost finished the app
