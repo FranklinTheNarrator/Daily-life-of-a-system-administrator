@@ -3,7 +3,7 @@
 <h1 align="center"> Daily life of a system administrator </h1>
 <h2 align="center"> Anykey part </h2>
 
-# Day One (wednesday)
+# Day One (wednesday) 0x00000000
 > * Installed a few programs on 27 computers
 > * Restored and changed 6 passwords of 6 local accounts
 > * Took a picture of router (it was a switch)
@@ -11,7 +11,7 @@
 > * Checked 5 computers for functionality
 > * Scrolled through 4 more kilometers of my Twitter feed
 
-# Day Two (thursday)
+# Day Two (thursday) 0x00000000
 > * No open tickets, we're good
 > * Still no tickets, writing my own android app
 > * One ticket appeared, but it is outside my "jurisdiction".
@@ -21,7 +21,7 @@
 > * No tickets, no updates x3
 > * No tickets, gotta go to the lecture (I am a student)
 
-# Day Three (friday)
+# Day Three (friday) 0x00000000
 > * No tickets, guess that's the end of the week
 > * Just got a direct order from "tops", they want our team to prepare a few classrooms for online test
 > * Installed some program on 84 computers for online test, still no tickets
@@ -33,10 +33,10 @@
 # Day Four-Five-Six (saturday, sunday, monday)
 > * day off
 
-# Day Seven (tuesday)
+# Day Seven (tuesday) 0x00000008
 > * No open tickets, feeling free and comfy ("Let's Groove by Earth, Wind & Fire" vibe)
 > * Still clear, almost finished the app
 > * One ticket appeared, had to reinstall Windows, activate it and reconnect to company domain (easy peasy lemon squeezy)
 > * No tickets, we're good
 
-# Day Eight (wednesday)
+# Day Eight (wednesday) 0x00000008
