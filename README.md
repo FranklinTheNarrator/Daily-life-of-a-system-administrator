@@ -30,7 +30,7 @@
 > * No tickets, keep writing my android app
 > * Yeah, "the end of the week"
 
-# Day Four-Five-Six (saturday, sunday, monday)
+# Day Four-Five-Six (saturday, sunday, monday) 0x00000000
 > * day off
 
 # Day Seven (tuesday) 0x00000008
