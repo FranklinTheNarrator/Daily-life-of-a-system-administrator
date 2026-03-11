@@ -40,3 +40,4 @@
 > * No tickets, we're good
 
 # Day Eight (wednesday) 0x00000008
+> * Fixed a printer, got a chocolate as a reward
