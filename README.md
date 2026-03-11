@@ -38,3 +38,5 @@
 > * Still clear, almost finished the app
 > * One ticket appeared, had to reinstall Windows, activate it and reconnect to company domain (easy peasy lemon squeezy)
 > * No tickets, we're good
+
+# Day Eight (wednesday)
