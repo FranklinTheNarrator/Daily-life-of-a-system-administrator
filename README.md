@@ -42,3 +42,5 @@
 # Day Eight (wednesday) 0x00000008
 > * Fixed a printer, got a chocolate as a reward
 > * No tickets, better go to the class
+
+# Day Nine (thursday) 0x00000008
