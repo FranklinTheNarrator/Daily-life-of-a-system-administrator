@@ -44,3 +44,4 @@
 > * No tickets, better go to the class
 
 # Day Nine (thursday) 0x00000008
+> * Connected a new printer to two computers over a network
