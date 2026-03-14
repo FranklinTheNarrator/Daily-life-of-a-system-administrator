@@ -52,4 +52,4 @@
 > * Pretty boring day, hahan't
 
 # Day Eleven (saturday) 0x00000008
-> * had to be a day off, but I was ordered to be a tech support for the event at uni
+> *ItH supposed to be a day off, but I was ordered to be a tech support for the event at uni
